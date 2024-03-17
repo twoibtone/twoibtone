@@ -3,9 +3,9 @@
 
 Pleased to meet you!
 I'm anna, whether it is read straight or flipped.
-- 😄 I'm cheerful and adaptable person
-- :triangular_flag_on_post: I'm interested in Data Analyst and Data Science
-- 🌱 I'm currently learnig SQL, Python, Tableau
+- 😄 I'm cheerful and adaptable person.
+- :triangular_flag_on_post: I'm interested in Data Analyst and Data Science.
+- 🌱 I'm currently learnig SQL, Python, Tableau.
 
 If you want to contact me, please leave me a message!
 
@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 --> 
 
 ### :sparkles: My skills 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-FF3850?style=flat-square&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Tableau-FF3850?style=flat-square&logo=Tableau&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twoibtone&show_icons=true&theme=buefy)

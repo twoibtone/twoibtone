@@ -3,9 +3,10 @@
 
 Pleased to meet you!  
 I'm anna, whether it is read straight or flipped.
-- 😄 I'm cheerful and adaptable person.
-- :triangular_flag_on_post: I'm interested in Data Analyst and Data Science.
-- 🌱 I'm currently learnig SQL, Python, Tableau.
+I'm...
+- 😄 cheerful and adaptable person.
+- :triangular_flag_on_post: interested in Data Analyst and Data Science.
+- 🌱 currently learnig SQL, Python, Tableau.
 
 If you want to contact me, please leave me a message!
 

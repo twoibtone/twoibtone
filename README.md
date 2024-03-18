@@ -2,7 +2,7 @@
 <a href="https://nasena.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-E6502A?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 Pleased to meet you!  
-I'm anna, whether it is read straight or flipped.
+I'm anna, whether it is read straight or flipped.  
 I'm...
 - 😄 cheerful and adaptable person.
 - :triangular_flag_on_post: interested in Data Analyst and Data Science.
